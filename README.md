@@ -1,6 +1,6 @@
-# Advanced Regression Models - Assignment Code
+# Advanced Regression Models
 
-This repository contains my assignment code for **Advanced Regression Models**.  
+This repository contains my assignment code for **BIS 623 Advanced Regression Models**.  
 
 Course Instructor: **Yize Zhao**  
 Teaching Assistants: **Mengyuan Pei**, **Yiran Huo**, **Can Meng**
